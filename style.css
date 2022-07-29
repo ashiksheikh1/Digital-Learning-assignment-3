@@ -2,17 +2,13 @@
     margin-left: 20px;
 }
 
-.ashik {
-    margin-left: 200px;
-}
-
 .section-3 {
     margin-top: 100px;
 }
 
-.carousel-caption {
+/* .carousel-caption {
     bottom: 10.25rem !important;
-}
+} */
 
 .carousel-img {
     width: 100%;
@@ -20,9 +16,9 @@
     object-fit: cover;
 }
 
-.section-3-text {
+/* .section-3-text {
     padding: 0px 280px;
-}
+} */
 
 .extra {
     background-color: rgba(207, 243, 231, 0.815);
@@ -49,7 +45,7 @@
 
 .section-5 {
     margin-top: 100px;
-    padding: 0px 280px;
+
 }
 
 .company {
@@ -60,4 +56,10 @@
 
 .section-6 {
     margin-top: 100px;
+}
+
+@media only screen and (max-width:768) {
+    .items {
+        /* display: block; */
+    }
 }
