@@ -24,17 +24,17 @@
     background-color: rgba(207, 243, 231, 0.815);
 }
 
-.extra-text {
+/* .extra-text {
     height: 400px;
     width: 100%;
     /* padding-top: 300px; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
+display: flex;
+align-items: center;
+justify-content: center;
 
 }
 
-.section-4 {
+*/ .section-4 {
     margin-top: 100px;
 }
 
